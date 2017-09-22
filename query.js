@@ -43,12 +43,17 @@
         }
 
         window.diver.processors[namespace] = {
+            name: 'Query',
             namespace: namespace,
             process: function process(traffic) {
-                var url = new URL(traffic.request.url);
-                var query = url.search.substr(1);
+                try {
+                    var url = new URL(traffic.request.url);
+                    var query = url.search.substr(1);
 
-                return parseQuery(query);
+                    return parseQuery(query);
+                } catch (e) {
+                    return {};
+                }
             }
         };
     } catch (e) {}
