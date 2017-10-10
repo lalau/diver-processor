@@ -1,6 +1,6 @@
 (function() {
     try {
-        var namespace = 'query';
+        var namespace = 'param';
 
         window.diver.processors[namespace] = {
             name: 'Query',
