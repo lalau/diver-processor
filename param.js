@@ -3,7 +3,7 @@
         var namespace = 'param';
 
         window.diver.processors[namespace] = {
-            name: 'Query',
+            name: 'Param',
             namespace: namespace,
             process: function process(traffic) {
                 const obj = {};
