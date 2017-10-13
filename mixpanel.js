@@ -11,7 +11,7 @@
 
                 traffic.request.queryString.some(({name, value}) => {
                     if (name === 'params') {
-                        params = value;
+                        params = decodeURIComponent(value);
                     }
                 });
 
