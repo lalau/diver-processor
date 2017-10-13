@@ -1,0 +1,136 @@
+{
+    "startedDateTime": {},
+    "time": 2992.7254729968263,
+    "request": {
+        "method": "GET",
+        "url": "https://api.mixpanel.com/track?params=data=eyJldmVudCI6InZpZGVvX2luaXQiLCJwcm9wZXJ0aWVzIjp7ImFwcF92ZXJzaW9uIjoiMjAxNy4xMC4xMy0xNjEzMzYrREVWIiwiZmxhc2hfdmVyc2lvbiI6IjI3LDAsMCIsInJlZmVycmVyX3VybCI6IiIsInJlZmVycmVyX2hvc3QiOiIiLCJyZWZlcnJlcl9kb21haW4iOiIiLCJicm93c2VyIjoiNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzEyXzYpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS82MS4wLjMxNjMuMTAwIFNhZmFyaS81MzcuMzYiLCJ1c2VyX2FnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTJfNikgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzYxLjAuMzE2My4xMDAgU2FmYXJpLzUzNy4zNiIsImRldmljZV9pZCI6ImRhYzUwZDIzM2MyODkwODkiLCJkaXN0aW5jdF9pZCI6ImRhYzUwZDIzM2MyODkwODkiLCJzZXNzaW9uX2RldmljZV9pZCI6IllBRzVVTWMwalpteHZEaTlPakt1dlVBSVJGQk1hMlR3IiwiY2xpZW50X2FwcCI6InR3aWxpZ2h0IiwicGxheWVyIjoiZnJvbnRwYWdlIiwiY2hhbm5lbCI6ImRhbnNnYW1pbmciLCJiZW5jaG1hcmtfc2Vzc2lvbl9pZCI6ImNxWlRnSmN6SHJSOWk4ZjhuUnJIbjZWeU56bFhJRHZVIiwibXNlX3N1cHBvcnQiOnRydWUsImNvbnRlbnRfaWQiOiIiLCJjdXN0b21lcl9pZCI6IiIsInR1cmJvIjpmYWxzZSwic3RhZmYiOmZhbHNlLCJzdWJzY3JpYmVyIjpmYWxzZSwiYnJvYWRjYXN0ZXJfc29mdHdhcmUiOiJ1bmtub3duX3J0bXAiLCJsaXZlIjp0cnVlLCJjaGFubmVsX2lkIjo3MjM2NjkyLCJnYW1lIjoiVGhlIEV2aWwgV2l0aGluIDIiLCJjb250ZW50X21vZGUiOiJsaXZlIiwicGFydG5lciI6dHJ1ZSwiYmFja2VuZCI6Im1lZGlhcGxheWVyIiwiYmFja2VuZF92ZXJzaW9uIjoiMi4wLjEzLWFlY2E4MTUiLCJwYWdlX3Nlc3Npb25faWQiOiI3NDcxNTk1OWExNzNlNmQ4IiwicmVmZXJyZXIiOiIiLCJ0YWJfc2Vzc2lvbl9pZCI6IjAxNmM5ZmM3YzkzOGRiZWQiLCJwbGF0Zm9ybSI6IndlYiIsInBsYXlfc2Vzc2lvbl9pZCI6InJ1cUFhZU9rSHc2aTlpMlNHNU92NTZyNlZ3MTBXYzJEIiwidXJsIjoiaHR0cHM6Ly9nby50d2l0Y2gudHYvIiwiaG9zdCI6ImdvLnR3aXRjaC50diIsImRvbWFpbiI6InR3aXRjaC50diIsInRpbWUiOjE1MDc5MzIxOTAuODU0LCJ0b2tlbiI6IjgwOTU3NjQ2ODU3MjEzNGY5MDlkZmZhNmJkMGRjZmNmIn19&ip=1",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Origin",
+                "value": "https://go.twitch.tv"
+            },
+            {
+                "name": "Accept-Encoding",
+                "value": "gzip, deflate, br"
+            },
+            {
+                "name": "Host",
+                "value": "api.mixpanel.com"
+            },
+            {
+                "name": "Accept-Language",
+                "value": "en-US,en;q=0.8,es;q=0.6,fr;q=0.4,ja;q=0.2,pt;q=0.2,zh-CN;q=0.2,zh-TW;q=0.2"
+            },
+            {
+                "name": "User-Agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+            },
+            {
+                "name": "Accept",
+                "value": "*/*"
+            },
+            {
+                "name": "Referer",
+                "value": "https://go.twitch.tv/"
+            },
+            {
+                "name": "Connection",
+                "value": "keep-alive"
+            }
+        ],
+        "queryString": [
+            {
+                "name": "params",
+                "value": "data=eyJldmVudCI6InZpZGVvX2luaXQiLCJwcm9wZXJ0aWVzIjp7ImFwcF92ZXJzaW9uIjoiMjAxNy4xMC4xMy0xNjEzMzYrREVWIiwiZmxhc2hfdmVyc2lvbiI6IjI3LDAsMCIsInJlZmVycmVyX3VybCI6IiIsInJlZmVycmVyX2hvc3QiOiIiLCJyZWZlcnJlcl9kb21haW4iOiIiLCJicm93c2VyIjoiNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzEyXzYpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS82MS4wLjMxNjMuMTAwIFNhZmFyaS81MzcuMzYiLCJ1c2VyX2FnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTJfNikgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzYxLjAuMzE2My4xMDAgU2FmYXJpLzUzNy4zNiIsImRldmljZV9pZCI6ImRhYzUwZDIzM2MyODkwODkiLCJkaXN0aW5jdF9pZCI6ImRhYzUwZDIzM2MyODkwODkiLCJzZXNzaW9uX2RldmljZV9pZCI6IllBRzVVTWMwalpteHZEaTlPakt1dlVBSVJGQk1hMlR3IiwiY2xpZW50X2FwcCI6InR3aWxpZ2h0IiwicGxheWVyIjoiZnJvbnRwYWdlIiwiY2hhbm5lbCI6ImRhbnNnYW1pbmciLCJiZW5jaG1hcmtfc2Vzc2lvbl9pZCI6ImNxWlRnSmN6SHJSOWk4ZjhuUnJIbjZWeU56bFhJRHZVIiwibXNlX3N1cHBvcnQiOnRydWUsImNvbnRlbnRfaWQiOiIiLCJjdXN0b21lcl9pZCI6IiIsInR1cmJvIjpmYWxzZSwic3RhZmYiOmZhbHNlLCJzdWJzY3JpYmVyIjpmYWxzZSwiYnJvYWRjYXN0ZXJfc29mdHdhcmUiOiJ1bmtub3duX3J0bXAiLCJsaXZlIjp0cnVlLCJjaGFubmVsX2lkIjo3MjM2NjkyLCJnYW1lIjoiVGhlIEV2aWwgV2l0aGluIDIiLCJjb250ZW50X21vZGUiOiJsaXZlIiwicGFydG5lciI6dHJ1ZSwiYmFja2VuZCI6Im1lZGlhcGxheWVyIiwiYmFja2VuZF92ZXJzaW9uIjoiMi4wLjEzLWFlY2E4MTUiLCJwYWdlX3Nlc3Npb25faWQiOiI3NDcxNTk1OWExNzNlNmQ4IiwicmVmZXJyZXIiOiIiLCJ0YWJfc2Vzc2lvbl9pZCI6IjAxNmM5ZmM3YzkzOGRiZWQiLCJwbGF0Zm9ybSI6IndlYiIsInBsYXlfc2Vzc2lvbl9pZCI6InJ1cUFhZU9rSHc2aTlpMlNHNU92NTZyNlZ3MTBXYzJEIiwidXJsIjoiaHR0cHM6Ly9nby50d2l0Y2gudHYvIiwiaG9zdCI6ImdvLnR3aXRjaC50diIsImRvbWFpbiI6InR3aXRjaC50diIsInRpbWUiOjE1MDc5MzIxOTAuODU0LCJ0b2tlbiI6IjgwOTU3NjQ2ODU3MjEzNGY5MDlkZmZhNmJkMGRjZmNmIn19"
+            },
+            {
+                "name": "ip",
+                "value": "1"
+            }
+        ],
+        "cookies": [],
+        "headersSize": 2100,
+        "bodySize": 0
+    },
+    "response": {
+        "status": 200,
+        "statusText": "OK",
+        "httpVersion": "HTTP/1.1",
+        "headers": [
+            {
+                "name": "Date",
+                "value": "Fri, 13 Oct 2017 22:03:10 GMT"
+            },
+            {
+                "name": "Server",
+                "value": "nginx/1.11.2"
+            },
+            {
+                "name": "Access-Control-Max-Age",
+                "value": "1728000"
+            },
+            {
+                "name": "Access-Control-Allow-Methods",
+                "value": "GET, POST, OPTIONS"
+            },
+            {
+                "name": "Content-Type",
+                "value": "application/json"
+            },
+            {
+                "name": "Access-Control-Allow-Origin",
+                "value": "https://go.twitch.tv"
+            },
+            {
+                "name": "Access-Control-Expose-Headers",
+                "value": "X-MP-CE-Backoff"
+            },
+            {
+                "name": "Cache-Control",
+                "value": "no-cache, no-store"
+            },
+            {
+                "name": "Access-Control-Allow-Credentials",
+                "value": "true"
+            },
+            {
+                "name": "Connection",
+                "value": "keep-alive"
+            },
+            {
+                "name": "Access-Control-Allow-Headers",
+                "value": "X-Requested-With"
+            },
+            {
+                "name": "Content-Length",
+                "value": "1"
+            }
+        ],
+        "cookies": [],
+        "content": {
+            "size": 1,
+            "mimeType": "application/json",
+            "compression": 0
+        },
+        "redirectURL": "",
+        "headersSize": 458,
+        "bodySize": 1,
+        "_transferSize": 459,
+        "_error": "net::ERR_ABORTED"
+    },
+    "cache": {},
+    "timings": {
+        "blocked": 4.19747300201561,
+        "dns": -1,
+        "ssl": -1,
+        "connect": -1,
+        "send": 0.1230000052601099,
+        "wait": 26.7879999591969,
+        "receive": 2963.6170000303537,
+        "_blocked_queueing": 0.4729999927803874
+    },
+    "serverIPAddress": "169.54.129.41",
+    "connection": "2265708",
+    "pageref": "page_4"
+}
