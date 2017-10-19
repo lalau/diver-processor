@@ -10,13 +10,14 @@
 
                 try {
                     const startIndex = traffic.request.url.indexOf(';');
+                    const endIndex = traffic.request.url.indexOf('?');
                     let params;
 
                     if (startIndex === -1) {
                         return obj;
                     }
 
-                    traffic.request.url.substr(startIndex + 1).split(';').forEach((param) => {
+                    traffic.request.url.substring(startIndex + 1, endIndex === -1 ? undefined : endIndex).split(';').forEach((param) => {
                         const index = param.indexOf('=');
                         let kstr, vstr, k, v;
 
