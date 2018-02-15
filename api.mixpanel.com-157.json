@@ -1,0 +1,61 @@
+{
+    "startedDateTime": {},
+    "time": 33.672000074759126,
+    "request": {
+        "method": "GET",
+        "url": "https://api.mixpanel.com/track?data=eyJldmVudCI6InZpZGVvX3BsYXlfbG9hZF9zdGFydCIsInByb3BlcnRpZXMiOnsiYXBwX3ZlcnNpb24iOiIyMDE4LjAyLjE0LTIxMjQzMCswZGUzNDNkYjQ2ODkwMTcyZDRjMWE4MDgzNTQyNTA0MTgwYWQ2ZDJkIiwiZmxhc2hfdmVyc2lvbiI6IjI4LDAsMCIsInJlZmVycmVyX3VybCI6IiIsInJlZmVycmVyX2hvc3QiOiIiLCJyZWZlcnJlcl9kb21haW4iOiIiLCJicm93c2VyIjoiNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzEzXzMpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS82NC4wLjMyODIuMTQwIFNhZmFyaS81MzcuMzYiLCJicm93c2VyX2ZhbWlseSI6ImNocm9tZSIsImJyb3dzZXJfdmVyc2lvbiI6IjY0LjAiLCJvc19uYW1lIjoibWFjT1MiLCJvc192ZXJzaW9uIjoiMTAuMTMuMyIsInVzZXJfYWdlbnQiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xM18zKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvNjQuMC4zMjgyLjE0MCBTYWZhcmkvNTM3LjM2IiwiZGV2aWNlX2lkIjoiODFaVE83SFRHME9pb1RXZ3ZENGlsaFFuWVczN1g4TWoiLCJkaXN0aW5jdF9pZCI6IjgxWlRPN0hURzBPaW9UV2d2RDRpbGhRbllXMzdYOE1qIiwic2Vzc2lvbl9kZXZpY2VfaWQiOiJVc1c2alVRSlh1QnptWDZ0WjUyUXZHZU9jczRhUWRDYiIsImNsaWVudF9hcHAiOiJ0d2lsaWdodCIsInBsYXllciI6ImZyb250cGFnZSIsImNoYW5uZWwiOiJ0cmljazJnIiwidm9kX2lkIjpudWxsLCJiZW5jaG1hcmtfc2Vzc2lvbl9pZCI6ImdSeDdmbmFmcHZQTk1Tak82ejJrNEFtVEFWNDR6dXpFIiwibXNlX3N1cHBvcnQiOnRydWUsImNvbnRlbnRfaWQiOiIiLCJjdXN0b21lcl9pZCI6IiIsInR1cmJvIjpmYWxzZSwic3Vic2NyaWJlciI6ZmFsc2UsImF1dG9wbGF5Ijp0cnVlLCJwbGF0Zm9ybSI6IndlYiIsInBsYXlfc2Vzc2lvbl9pZCI6IjVUdmJkdEhVbld3UkFxU2lOdjc5U0swR0tIeG5QSVRYIiwidXJsIjoiaHR0cHM6Ly93d3cudHdpdGNoLnR2LyIsImhvc3QiOiJ3d3cudHdpdGNoLnR2IiwiZG9tYWluIjoidHdpdGNoLnR2IiwibG93X2xhdGVuY3kiOmZhbHNlLCJ0aW1lIjoxNTE4NjgyMjU4LjQ3NiwidG9rZW4iOiI4MDk1NzY0Njg1NzIxMzRmOTA5ZGZmYTZiZDBkY2ZjZiJ9fQ%3D%3D&ip=1",
+        "httpVersion": "http/1.1",
+        "headers": [
+            {
+                "name": "Referer",
+                "value": "https://www.twitch.tv/"
+            },
+            {
+                "name": "User-Agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36"
+            }
+        ],
+        "queryString": [
+            {
+                "name": "data",
+                "value": "eyJldmVudCI6InZpZGVvX3BsYXlfbG9hZF9zdGFydCIsInByb3BlcnRpZXMiOnsiYXBwX3ZlcnNpb24iOiIyMDE4LjAyLjE0LTIxMjQzMCswZGUzNDNkYjQ2ODkwMTcyZDRjMWE4MDgzNTQyNTA0MTgwYWQ2ZDJkIiwiZmxhc2hfdmVyc2lvbiI6IjI4LDAsMCIsInJlZmVycmVyX3VybCI6IiIsInJlZmVycmVyX2hvc3QiOiIiLCJyZWZlcnJlcl9kb21haW4iOiIiLCJicm93c2VyIjoiNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzEzXzMpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS82NC4wLjMyODIuMTQwIFNhZmFyaS81MzcuMzYiLCJicm93c2VyX2ZhbWlseSI6ImNocm9tZSIsImJyb3dzZXJfdmVyc2lvbiI6IjY0LjAiLCJvc19uYW1lIjoibWFjT1MiLCJvc192ZXJzaW9uIjoiMTAuMTMuMyIsInVzZXJfYWdlbnQiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xM18zKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvNjQuMC4zMjgyLjE0MCBTYWZhcmkvNTM3LjM2IiwiZGV2aWNlX2lkIjoiODFaVE83SFRHME9pb1RXZ3ZENGlsaFFuWVczN1g4TWoiLCJkaXN0aW5jdF9pZCI6IjgxWlRPN0hURzBPaW9UV2d2RDRpbGhRbllXMzdYOE1qIiwic2Vzc2lvbl9kZXZpY2VfaWQiOiJVc1c2alVRSlh1QnptWDZ0WjUyUXZHZU9jczRhUWRDYiIsImNsaWVudF9hcHAiOiJ0d2lsaWdodCIsInBsYXllciI6ImZyb250cGFnZSIsImNoYW5uZWwiOiJ0cmljazJnIiwidm9kX2lkIjpudWxsLCJiZW5jaG1hcmtfc2Vzc2lvbl9pZCI6ImdSeDdmbmFmcHZQTk1Tak82ejJrNEFtVEFWNDR6dXpFIiwibXNlX3N1cHBvcnQiOnRydWUsImNvbnRlbnRfaWQiOiIiLCJjdXN0b21lcl9pZCI6IiIsInR1cmJvIjpmYWxzZSwic3Vic2NyaWJlciI6ZmFsc2UsImF1dG9wbGF5Ijp0cnVlLCJwbGF0Zm9ybSI6IndlYiIsInBsYXlfc2Vzc2lvbl9pZCI6IjVUdmJkdEhVbld3UkFxU2lOdjc5U0swR0tIeG5QSVRYIiwidXJsIjoiaHR0cHM6Ly93d3cudHdpdGNoLnR2LyIsImhvc3QiOiJ3d3cudHdpdGNoLnR2IiwiZG9tYWluIjoidHdpdGNoLnR2IiwibG93X2xhdGVuY3kiOmZhbHNlLCJ0aW1lIjoxNTE4NjgyMjU4LjQ3NiwidG9rZW4iOiI4MDk1NzY0Njg1NzIxMzRmOTA5ZGZmYTZiZDBkY2ZjZiJ9fQ%3D%3D"
+            },
+            {
+                "name": "ip",
+                "value": "1"
+            }
+        ],
+        "cookies": [],
+        "headersSize": -1,
+        "bodySize": 0
+    },
+    "response": {
+        "status": 400,
+        "statusText": "Service Worker Fallback Required",
+        "httpVersion": "HTTP/1.1",
+        "headers": [],
+        "cookies": [],
+        "content": {
+            "size": 0,
+            "mimeType": "text/plain"
+        },
+        "redirectURL": "",
+        "headersSize": 49,
+        "bodySize": 0,
+        "_transferSize": 0
+    },
+    "cache": {},
+    "timings": {
+        "blocked": -1,
+        "dns": -1,
+        "ssl": -1,
+        "connect": -1,
+        "send": 0,
+        "wait": 36.672000074759126,
+        "receive": 0,
+        "_blocked_queueing": -1
+    },
+    "serverIPAddress": "",
+    "_fromCache": "disk",
+    "pageref": "page_3"
+}
